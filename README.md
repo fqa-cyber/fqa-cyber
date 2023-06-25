@@ -1,6 +1,6 @@
 ![MasterHead](https://www.rgb.ie/java_scripts/uploads/2022/01/managed-it-security.png)
-<h1 align="center">Hi 👋, I'm fqa-cyber</h1>
-<h3 align="center">A passionate cybersecurity data scientist.</h3>
+<h1 align="center">Welcome to my GitHub profile 👋</h1>
+<h3 align="center">I am fqa-cyber, a passionate cybersecurity data scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqa-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="fqa-cyber" /> </p>
 
