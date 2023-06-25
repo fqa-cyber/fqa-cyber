@@ -1,4 +1,4 @@
-![MasterHead](https://www.rgb.ie/java_scripts/uploads/2022/01/managed-it-security.png)
+![MasterHead](https://attachment.eab.com/wp-content/uploads/2020/11/Illustration-IT-Blog-Illustration-1-1000x700-1.png)
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
 <h3 align="center">I am fqa-cyber, a passionate cybersecurity data scientist.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.stickmancyber.com/hubfs/About%20Us_Expert%20Team-1.png">
