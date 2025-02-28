@@ -1,7 +1,7 @@
 ![MasterHead](https://attachment.eab.com/wp-content/uploads/2020/11/Illustration-IT-Blog-Illustration-1-1000x700-1.png)
 <h1 align="center">Welcome to my GitHub profile 👋</h1>
 <h3 align="center">I am fqa-cyber, a passionate cybersecurity data scientist.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.stickmancyber.com/hubfs/About%20Us_Expert%20Team-1.png">
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/023/258/496/large_2x/digital-data-protection-design-illustration-cyber-security-illustration-background-cloud-computing-network-safety-concept-free-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqa-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="fqa-cyber" /> </p>
 
