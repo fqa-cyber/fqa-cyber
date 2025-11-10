@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fqa-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="fqa-cyber" /> </p>
 
-- 🔭 I’m currently working on [TExtPhish](https://github.com/ReDASers/TExtPhish)
 - 👯 I’m looking to collaborate on NLP, ML, Security projects.
 - 🌱 I’m currently learning <img src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg" style="vertical-align: bottom" alt="go" width="140" height="40"/>
 
